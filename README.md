@@ -1,4 +1,4 @@
-# 25-2_URP_III
+# 25-2_URP_III  
   
 **팀명: SOMA**  
 **프로젝트명: 성격 유형에 따른 대인 관계 인상 형성 타이밍 분석**
@@ -14,7 +14,7 @@
 - **Domain:** Human-Computer Interaction (HCI), Computer Vision
 
 ## 📂 Repository Structure
-├── docs/                # 최종결과물
+├── docs/                # 최종결과물  
 │   ├── 결과보고서.pdf  
 │   ├── 연구포스터.pdf  
 │   └── 발표자료.pdf  
